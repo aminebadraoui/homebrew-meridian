@@ -1,8 +1,8 @@
 cask "meridian" do
-  version "0.2.0"
-  sha256 "cf28f500623d250858d930f2b206a3d22bcb9bc145f7647202ed92f7340d3fa9"
+  version "0.3.0"
+  sha256 "bb8b050497bfad98a9279c59ad104a6e0c50f89055cb1a40df55e07131894a85"
 
-  url "https://github.com/aminebadraoui/meridian/releases/download/v#{version}/Meridian_0.2.0_universal.dmg"
+  url "https://github.com/aminebadraoui/meridian/releases/download/v#{version}/Meridian_0.3.0_universal.dmg"
   name "Meridian"
   desc "Local-first task and thread management app"
   homepage "https://github.com/aminebadraoui/meridian"
